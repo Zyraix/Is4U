@@ -1,10 +1,17 @@
 Things to do :
                 API START
                   Database                Check
-                  Database  Dummy Data    Uncheck
+                  Database migrations     Uncheck
                   API Model               Uncheck
                   API Routes              Uncheck
                   API Controllers         Uncheck
                   
 
 NodeJS version :  node --version -> v14.15.3
+
+Express framework
+~ npm init --yes
+~ npm i express
+
+Postgres modules for nodeJS
+~ npm install pg 
