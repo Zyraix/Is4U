@@ -1,0 +1,8 @@
+Things to do :
+                API START
+                  Database  Check
+                  Database  Model
+                  Database  Dummy Data
+                  NODE JS   Uncheck
+                  Laravel   Uncheck
+                  
