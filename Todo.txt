@@ -1,8 +1,10 @@
 Things to do :
                 API START
-                  Database  Check
-                  Database  Model
-                  Database  Dummy Data
-                  NODE JS   Uncheck
-                  Laravel   Uncheck
+                  Database                Check
+                  Database  Dummy Data    Uncheck
+                  API Model               Uncheck
+                  API Routes              Uncheck
+                  API Controllers         Uncheck
                   
+
+NodeJS version :  node --version -> v14.15.3
